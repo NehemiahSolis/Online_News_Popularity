@@ -18,4 +18,4 @@ In addition, we will want to optimize those given features needed to address the
 
 The dataset I will be using was originally compiled by Kelwin Fernandes and associates from the University of Porto in Portugal over a span of two years, from 2013 to 2015. It has already been pre-processed. For example, for the categorically variables, they have already been transformed by one-hot encoding and skewed features (like number of words in the article) have already been log transformed. 
 
-### For an Overview of the Project visualizations and Results, please refer to the [Slide Presentation](https://github.com/NehemiahSolis/Online_News_Popularity/blob/master/Online%20News%20Popularity.pdf) and the Jupyter Notebook
+### For an Overview of the Project visualizations and Results, please refer to the [Slide Presentation](https://github.com/NehemiahSolis/Online_News_Popularity/blob/master/Online%20News%20Popularity.pdf) and the [Jupyter Notebook](https://github.com/NehemiahSolis/Online_News_Popularity/blob/master/Online_News_Popularity%20(1).ipynb)
